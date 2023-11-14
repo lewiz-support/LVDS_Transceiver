@@ -5,8 +5,8 @@
 
 RELEASED AS-IS WITHOUT ANY WARRANTY OR LIABILITY OF ANY KIND IN ANY SCENARIO
 
-This repository is for releasing the LVDS transceiver design to open source
-The initial version targets the open source Skywater 130nm silicon process
+This repository is for releasing the LVDS transceiver design to open source.
+The initial version targets the open source Skywater 130nm silicon process.
 
 We hope this is useful to people whether to develop it further or learning analog development.
 We hope that someone will take it to the next step of layout, fab, test the design and report back to the open source with results.
