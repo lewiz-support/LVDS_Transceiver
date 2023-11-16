@@ -1,6 +1,13 @@
 # LVDS_Transceiver
 
 
+ALL INFORMATION ARE:
+
+Copyright (C)2023 LeWiz Communications, Inc.
+
+All Rights Reserved
+
+
 ================= 13 Nov 2023
 
 RELEASED AS-IS WITHOUT ANY WARRANTY OR LIABILITY OF ANY KIND IN ANY SCENARIO
