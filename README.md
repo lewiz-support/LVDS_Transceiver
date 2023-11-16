@@ -4,8 +4,8 @@
 ALL INFORMATION ARE:
 
 Copyright (C)2023 LeWiz Communications, Inc.
-
 All Rights Reserved
+
 
 
 ================= 13 Nov 2023
